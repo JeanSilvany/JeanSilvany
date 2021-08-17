@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Jean, sou Desenvolvedor <strong>Mobile / Web</strong>.<br>
+  Meu nome é Jean, sou Desenvolvedor Front-End <strong>Mobile / Web</strong>.<br>
   Atualmente sou estudante da área onde continuo evoluindo dia após dia.
 </p>
 
