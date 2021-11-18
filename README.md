@@ -28,8 +28,8 @@
   <a href="https://github.com/jeansilvany">
     
 <p float="left">
-         <img width="33%" src="https://github-readme-stats.vercel.app/api?username=jeansilvany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius"/> 
-         <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvany&layout=compact&langs_count=7&theme=dracula&border_radius"/>  
+         <img src="https://github-readme-stats.vercel.app/api?username=jeansilvany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius"/> 
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvany&layout=compact&langs_count=7&theme=dracula&border_radius"/>  
 </p>
       
 </div>
