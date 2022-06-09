@@ -68,7 +68,8 @@
  <img align="center" title='Typescript' alt="Typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
  <img align="center" title='Styled Components' alt="Styled Components" height="35" width="45" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" />
-
+     
+    
   <hr>
   
 
@@ -91,8 +92,13 @@
  <img align="center" title='Ruby On Rails' alt="Ruby On Rails" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
    
  <hr>
-
-
+     
+  <h3> Testes Unitários </h3>
+     
+ <img align="center" title='Jest' alt="Jest" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" />
+    
+    
+  <hr>
 
   <h3> IDE </h3>
   
