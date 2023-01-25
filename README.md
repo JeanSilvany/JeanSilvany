@@ -12,13 +12,17 @@
      src="https://origamistudios.us/wp-content/uploads/2018/10/hire-iOS-developer.svg">
 
 <p align="left"> 
-  
-  Meu nome é Jean, sou Desenvolvedor Front-End <strong>Mobile / Web</strong>.<br>
-  
-  Sempre serei um estudante da área onde continuarei evoluindo dia após dia, afinal de contas o maior inimigo do conhecimento é quem acredita saber tudo.
+     
+Olá, meu nome é Jean e sou um desenvolvedor React-Native apaixonado por criar aplicativos incríveis para dispositivos móveis.
 
-  Let's Code! 💻
+Este repositório é o meu diário de aventuras no mundo do desenvolvimento, onde compartilho meus projetos e desafios superados.
 
+Aqui você encontrará aplicativos criados com as tecnologias mais quentes do mercado, como React-Native, Typescript e Styled Components. Além disso, utilizo ferramentas poderosas como o VS Code e o Yarn para garantir que tudo funcione perfeitamente.
+
+Se você é um desenvolvedor iniciante ou apenas curioso sobre tecnologia, sinta-se à vontade para explorar meus projetos e tirar suas próprias conclusões. Quem sabe, talvez você possa se inspirar e começar sua própria jornada de desenvolvimento.
+
+Vamos codar juntos nessa aventura! 🚀💻
+ 
 </p>
 
 <!-- Painel de Trabalhos -->
