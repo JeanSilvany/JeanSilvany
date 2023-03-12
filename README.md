@@ -1,15 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Background"> -->
-
-<!-- <img min-width="400px" max-width="400px" width="400px" align="right" alt="Background"    src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/trails/force_com_dev_beginner/39ed2e90cae0e0428a8ea1a110425370_icon.png"> -->
-
-<!-- <img  min-width="400px" max-width="400px" width="400px" align="right" alt="Background" 
-     src="https://www.ftxinfotech.com/wp-content/uploads/2020/06/hire-mobile-app-developer.png"> -->
-
-<!-- <img  min-width="400px" max-width="400px" width="400px" align="right" alt="Background" 
-     src="https://www.redhat.com/cms/managed-files/dev-studio-vector-graphic-500x415.png"> -->
-
-<img  min-width="400px" max-width="400px" width="400px" align="right" alt="Background" 
-     src="https://origamistudios.us/wp-content/uploads/2018/10/hire-iOS-developer.svg">
+ <img src="https://user-images.githubusercontent.com/73763375/224567834-fc1bb787-3188-4864-96e7-0809c2feeb5e.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
 <p align="left"> 
      
