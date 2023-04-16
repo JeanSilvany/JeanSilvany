@@ -1,7 +1,10 @@
- <img src="https://user-images.githubusercontent.com/73763375/224567834-fc1bb787-3188-4864-96e7-0809c2feeb5e.png" min-width="400px" max-width="400px" width="400px" align="right" >
+ <img src="https://user-images.githubusercontent.com/73763375/232349813-548e9c47-52dc-45bc-ba62-18fc7756eb9d.png" min-width="400px" max-width="400px" width="400px" align="right" >
+ 
+ 
 
 <p align="left"> 
-     
+
+
 Olá, meu nome é Jean e sou um desenvolvedor React-Native apaixonado por criar aplicativos incríveis para dispositivos móveis.
 
 Este repositório é o meu diário de aventuras no mundo do desenvolvimento, onde compartilho meus projetos e desafios superados.
