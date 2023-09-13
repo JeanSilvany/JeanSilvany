@@ -64,27 +64,32 @@ Vamos codar juntos nessa aventura! 🚀💻
  <img align="center" title='Typescript' alt="Typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
  <img align="center" title='Styled Components' alt="Styled Components" height="35" width="45" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" />
-     
+
+<img align="center" title='Firebase' alt="Firebase" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain.svg" />
+
+ <img align="center" title='Swift' alt="Swift" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" />
+
     
   <hr>
   
 
  <h3> Desenvolvimento Web </h3>
+ 
+ <img align="center" title='ReactJS' alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+ <img align="center" title='Tailwindcss' alt="Tailwindcss" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
  <img align="center" title='HTML5' alt="HTM5L" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
  <img align="center" title='CSS3' alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
  <img align="center" title='Javascript' alt="Javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
- <img align="center" title='ReactJS' alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
- <img align="center" title='Tailwindcss' alt="Tailwindcss" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
  <hr>
   
    <h3> Back-end </h3>
 
+ <img align="center" title='Ruby On Rails' alt="Ruby On Rails" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" />
  <img align="center" title='Ruby On Rails' alt="Ruby On Rails" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
    
  <hr>
