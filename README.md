@@ -5,15 +5,9 @@
 <p align="left"> 
 
 
-Olá, meu nome é Jean e sou um desenvolvedor React-Native apaixonado por criar aplicativos incríveis para dispositivos móveis.
+Como Desenvolvedor Mobile especializado em React Native, meu foco é criar e otimizar experiências de usuário. Desde 2021, tenho trabalhado no desenvolvimento de aplicativos móveis, aplicando minha habilidade como programador para criar soluções robustas e escaláveis que atendem a milhares de usuários diariamente.
 
-Este repositório é o meu diário de aventuras no mundo do desenvolvimento, onde compartilho meus projetos e desafios superados.
-
-Aqui você encontrará aplicativos criados com as tecnologias mais quentes do mercado, como React-Native, Typescript e Styled Components. Além disso, utilizo ferramentas poderosas como o VS Code e o Yarn para garantir que tudo funcione perfeitamente.
-
-Se você é um desenvolvedor iniciante ou apenas curioso sobre tecnologia, sinta-se à vontade para explorar meus projetos e tirar suas próprias conclusões. Quem sabe, talvez você possa se inspirar e começar sua própria jornada de desenvolvimento.
-
-Vamos codar juntos nessa aventura! 🚀💻
+Com uma sólida base técnica em React Native, JavaScript e Typescript, sou apaixonado por proporcionar experiências excepcionais aos usuários. Estou sempre pronto para enfrentar novos desafios e encontrar soluções eficazes para garantir o sucesso dos projetos em que estou envolvido.
  
 </p>
 
@@ -29,6 +23,10 @@ Vamos codar juntos nessa aventura! 🚀💻
 </p>
       
 </div>
+
+<!-- Tecnologias -->
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,styledcomponents,jest,swift,kotlin,dart,flutter,androidstudio,apple,html,css,js,nodejs,express,graphql,regex,tailwind,svg,git,github,firebase,sentry,figma,gradle,maven,postman,docker,yarn,vscode,ubuntu,linux,electron,discord,linkedin,instagram,stackoverflow,notion&theme=light)](https://skillicons.dev)
 
 <!-- Contatos -->
 
@@ -53,72 +51,6 @@ Vamos codar juntos nessa aventura! 🚀💻
 </p>  
       <hr>
 
-<!-- Tecnologias -->
 
-<div style="display: inline_block">
-  
-   <h3> Desenvolvimento Mobile </h3>
 
- <img align="center" title='React-Native' alt="React-Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
- <img align="center" title='Typescript' alt="Typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
- <img align="center" title='Styled Components' alt="Styled Components" height="35" width="45" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" />
 
-<img align="center" title='Firebase' alt="Firebase" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain.svg" />
-
- <img align="center" title='Swift' alt="Swift" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" />
-
-    
-  <hr>
-  
-
- <h3> Desenvolvimento Web </h3>
- 
- <img align="center" title='ReactJS' alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
- <img align="center" title='Tailwindcss' alt="Tailwindcss" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
- <img align="center" title='HTML5' alt="HTM5L" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
- <img align="center" title='CSS3' alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- <img align="center" title='Javascript' alt="Javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
- <hr>
-  
-   <h3> Back-end </h3>
-
- <img align="center" title='Ruby On Rails' alt="Ruby On Rails" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" />
- <img align="center" title='Ruby On Rails' alt="Ruby On Rails" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-   
- <hr>
-     
-  <h3> Testes Unitários </h3>
-     
- <img align="center" title='Jest' alt="Jest" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" />
-    
-    
-  <hr>
-
-  <h3> IDE </h3>
-  
-  <img align="center" title='VS Code' alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" />
-
-  <hr>
-  
-   <h3> Gerenciador de Pacotes </h3>
-
- <img align="center" title='Yarn' alt="Yarn" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-
-  <hr>
-
- <!-- Contador de visitas -->
-
- <h3> Visitantes </h3>
-
- <div>
-
-<img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=jeansilvany&color=green" alt="jeansilvany" /> <br>
-
- </div>
