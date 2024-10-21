@@ -13,16 +13,11 @@ Com uma sólida base técnica em React Native, JavaScript e Typescript, sou apai
 
 <!-- Painel de Trabalhos -->
 
-<div>
-  
-  <a href="https://github.com/jeansilvany">
-    
-<p float="left">
-         <img src="https://github-readme-stats.vercel.app/api?username=jeansilvany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius"/> 
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvany&layout=compact&langs_count=7&theme=dracula&border_radius"/>  
-</p>
-      
-</div>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanSilvany&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeanSilvany&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanSilvany&theme=dracula&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeansilvany&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <!-- Tecnologias -->
 
